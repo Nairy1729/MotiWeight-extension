@@ -1,0 +1,6 @@
+steps to use extension on your chrome brpwser .
+1 . Download the .zip file containing the extension files.
+2 . unzip the file .
+3 . Go to chrome://extensions/ in the browser.
+4 . Enable Developer Mode (toggle in the top right corner).
+5 . Click Load Unpacked and select the folder where the extension files are located.
