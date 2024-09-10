@@ -1,3 +1,4 @@
+This is simple chrome extension which provides a new qoute every five minute of activatiy on the browser .
 steps to use extension on your chrome brpwser .
 1 . Download the .zip file containing the extension files.
 2 . unzip the file .
